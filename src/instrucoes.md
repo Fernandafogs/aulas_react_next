@@ -9,3 +9,6 @@
 - [React] componentes com estado
 - [React] comunicacao entre componentes (direta)
 - [React] comunicacao entre componentes (indireta)
+- [React] renderização condicional
+- [React] renderização condicional
+- [React] renderização de listas
